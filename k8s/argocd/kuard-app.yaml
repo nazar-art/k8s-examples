@@ -19,7 +19,7 @@ spec:
         ingress:
           host: 180.20.30.40
     path: k8s/kuard
-    repoURL: https://github.com/xpinjection/k8s-examples.git
+    repoURL: https://github.com/nazar-art/k8s-examples.git
     targetRevision: HEAD
   syncPolicy:
     automated:

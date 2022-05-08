@@ -17,7 +17,7 @@ spec:
         - values.yaml
       values: |
         ingress:
-          host: 180.20.30.40
+          host: localhost
     path: k8s/kuard
     repoURL: https://github.com/nazar-art/k8s-examples.git
     targetRevision: HEAD
